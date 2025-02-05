@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Weiland</h1>
-<h3 align="center">A starting programmer</h3>
+<h3 align="center">One line at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weialndcs&label=Profile%20views&color=0e75b6&style=flat" alt="weialndcs" /> </p>
 
