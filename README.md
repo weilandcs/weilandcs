@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weialndcs&label=Profile%20views&color=0e75b6&style=flat" alt="weialndcs" /> </p>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 - 🌱 I’m currently learning **C#, PYTHON AND C++**
 
 - 📫 How to reach me **rjweiland2003@gmail.com**
