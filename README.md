@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weialndcs&label=Profile%20views&color=0e75b6&style=flat" alt="weialndcs" /> </p>
 
-- 🌱 I’m currently learning **C#, PYTHON AND C++**
+- 🌱 I’m currently learning **Python, C# and C++**
 
 - 📫 How to reach me **rjweiland2003@gmail.com**
 
